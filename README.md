@@ -8,5 +8,5 @@ In *custom expression* user can give custom expression in `Expression` input fie
 
 *To validate string `test()` method has been used.*
 
-Use this command to clone this branch  
-`git clone -b Regular-Expression-Validator https://github.com/abdul-wahid789/WebDevPractice.git`
+Use this command to clone this repo  
+`git clone https://github.com/abdul-wahid789/Regular-expression`
